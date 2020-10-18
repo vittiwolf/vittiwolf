@@ -1,19 +1,17 @@
-### Hi there, I'm vitti - aka [vittiwolf][website] 👋
+### Hi there, I'm Vittorio - aka [vittiwolf][website] 👋
 
-[![Website](https://img.shields.io/website?label=vittiwolf.dev&style=for-the-badge&url=https%3A%2F%2Fvittiwolf.dev)](https://vittiwolf.dev/)
-[![discord](https://api.xiloe.fr/v1/badges/badge.php?id=717629560346116199)](https://github.com/vittiwolf)
+[![Website](https://img.shields.io/website?label=vittiwolf.dev&style=for-the-badge&url=https%3A%2F%2Fvittiwolf.dev)](https://vittiwolf.dev)
 
-## I'm a Student, Gamer and Developer!!
+## I'm a Student, Gamer and Bot Developer!!
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript 🤣
 - 👯 I’m looking to collaborate with other Discord.js Developers
 - 🥅 2020 Goals: Get avoid of Corona
 
 
 ### Connect with me:
 
-My website [<img align="left" alt="https://vittiwolf.dev/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
+[<img align="left" alt="vittiwolf.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <br />
 
 ### Languages and Tools:
@@ -34,6 +32,9 @@ My website [<img align="left" alt="https://vittiwolf.dev/" width="22px" src="htt
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+
 <br />
 <br />
-[website]: https://vittiwolf.dev/
+
+
+[website]: https://vittiwolf.dev
