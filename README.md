@@ -1,8 +1,7 @@
 ### Hi there, I'm vitti - aka [vittiwolf][website] 👋
 
 [![Website](https://img.shields.io/website?label=vittiwolf.dev&style=for-the-badge&url=https%3A%2F%2Fvittiwolf.dev)](https://vittiwolf.dev/)
-[![discordsrc="https://camo.githubusercontent.com/ef626fe2a2e869fa6e0def078d114e1b18dbe482/68747470733a2f2f6170692e78696c6f652e66722f76312f6261646765732f62616467652e7068703f69643d363635373238343732363437323034383836" alt="xiloe contact" data-canonical-src="https://api.xiloe.fr/v1/badges/badge.php?id=665728472647204886" style="max-width:100%;">
-
+[![discord](https://api.xiloe.fr/v1/badges/badge.php?id=665728472647204886)](https://github.com/vittiwolf)
 
 ## I'm a Gamer and Developer!!
 
