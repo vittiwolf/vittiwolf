@@ -1,7 +1,7 @@
 ### Hi there, I'm vitti - aka [vittiwolf][website] 👋
 
 [![Website](https://img.shields.io/website?label=vittiwolf.dev&style=for-the-badge&url=https%3A%2F%2Fvittiwolf.dev)](https://vittiwolf.dev/)
-[![discord](https://api.xiloe.fr/v1/badges/badge.php?id=665728472647204886)](https://github.com/vittiwolf)
+[![discord](https://api.xiloe.fr/v1/badges/badge.php?id=717629560346116199)](https://github.com/vittiwolf)
 
 ## I'm a Gamer and Developer!!
 
