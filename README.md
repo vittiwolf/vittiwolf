@@ -12,8 +12,8 @@
 
 ### Connect with me:
 
-My website - [<img align="left" alt="https://vittiwolf.dev/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<br />
+[<img align="left" alt="https://vittiwolf.dev/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+My website -
 
 ### Languages and Tools:
 
