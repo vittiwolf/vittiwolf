@@ -1,6 +1,6 @@
 ### Hi there, I'm vitti - aka [vittiwolf][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://vittiwolf.dev/)
+[![Website](https://img.shields.io/website?label=vittiwolf.dev&style=for-the-badge&url=https%3A%2F%2Fvittiwolf.dev)](https://vittiwolf.dev/)
 
 ## I'm a Gamer and Developer!!
 
