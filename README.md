@@ -12,7 +12,7 @@
 ### Connect with me:
 
 [<img align="left" alt="vittiwolf.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<br />
+<br /> [![discord](https://api.xiloe.fr/v1/badges/badge.php?id=717629560346116199)](https://github.com/vittiwolf)
 
 ### Languages and Tools:
 
