@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=vittiwolf.dev&style=for-the-badge&url=https%3A%2F%2Fvittiwolf.dev)](https://vittiwolf.dev)
 
-## I'm a Student, Gamer and Bot Developer!!
+## I'm a Student, Gamer and Developer!!
 
 - 🌱 I’m currently learning JavaScript 🤣
 - 👯 I’m looking to collaborate with other Discord.js Developers
