@@ -25,6 +25,6 @@
 <br />
 
 
-[website]: https://vittiwolf.dev
+[website]: https://vittiwolf.dev/
 
 
